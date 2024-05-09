@@ -1,0 +1,1 @@
+A conitnuous gradient-based optimization for the discrete Tavelling Salesman Problem (TSP). The distance function is supposed to be unavailable and cannot be given explcitly. The classic benchmark kroA100 with 100 nodes is used to testify the method. 
